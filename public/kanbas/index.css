@@ -1,0 +1,72 @@
+.wd-kanbas-red-color {
+	color: #d41b2c;
+}
+
+.wd-navbar-total {
+    justify-content: flex-start;
+    
+}
+
+.wd-navbar-div {
+	text-align: center;
+    padding: 5px;
+}
+
+.wd-navbar-title {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.wd-navbar-title:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.wd-navbar-icon {
+	color: #d41b2c;;
+	text-decoration: none;
+    font-size: 23px;
+}
+
+.wd-kanbas-navbar-black {
+	background-color: black;
+	list-style-type: none;
+    padding-left: 0;
+}
+
+.wd-sidebar-list {
+	list-style-type: none;
+	width: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.wd-sidebar-div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.wd-sidebar-title {
+	color: #d41b2c;
+	text-decoration: none;
+    font-size: 17px;
+
+}
+
+.wd-sidebar-title:hover {
+	text-decoration: underline;
+	color: #d41b2c;
+}
+
+.wd-flex-row-container {
+  display: flex;
+  flex-direction: row;
+}
+.wd-flex-grow-1 {
+  flex-grow: 1;
+}
+.wd-width-75px {
+  width: 75px;
+}
