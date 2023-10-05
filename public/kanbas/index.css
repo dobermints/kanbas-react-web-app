@@ -10,12 +10,23 @@
 .wd-navbar-div {
 	text-align: center;
     padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.wd-navbar-div:focus {
+	background-color: white;
+	text-align: center;
+    padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .wd-navbar-title {
 	color: white;
 	text-decoration: none;
 	font-size: 15px;
+	font-family: Verdana, Tahoma, sans-serif;
 }
 
 .wd-navbar-title:hover {
@@ -23,8 +34,25 @@
 	text-decoration: none;
 }
 
+.wd-navbar-title:active {
+	color: #d41b2c;
+	text-decoration: none;
+}
+
+.wd-account-icon {
+	color: white;
+	text-decoration: none;
+    font-size: 27px;
+}
+
+.wd-account-icon:active {
+	color: black;
+	text-decoration: none;
+    font-size: 27px;
+}
+
 .wd-navbar-icon {
-	color: #d41b2c;;
+	color: #d41b2c;
 	text-decoration: none;
     font-size: 23px;
 }
@@ -44,14 +72,15 @@
 }
 
 .wd-sidebar-div {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .wd-sidebar-title {
 	color: #d41b2c;
 	text-decoration: none;
     font-size: 17px;
+	font-family: Verdana, Tahoma, sans-serif;
 
 }
 
